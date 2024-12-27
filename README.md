@@ -19,4 +19,4 @@ Gym Quest é um aplicativo que fornece dicas de treino personalizadas com base n
 1. Clone o repositório:
 
    ```sh
-  git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/elderws/gym-quest.git
+  git clone https://github.com/elderws/gym-quest.git
