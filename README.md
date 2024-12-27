@@ -1,4 +1,4 @@
-[# Gym Quest
+# Gym Quest
 
 Gym Quest é um aplicativo que fornece dicas de treino personalizadas com base na parte do corpo que o usuário deseja treinar. O aplicativo utiliza a API do Groq para gerar respostas com listas de exercícios.
 
@@ -19,5 +19,4 @@ Gym Quest é um aplicativo que fornece dicas de treino personalizadas com base n
 1. Clone o repositório:
 
    ```sh
-  git clone https://github.com/elderws/gym-quest.git
-](https://github.com/elderws/gym-quest.git)
+   git clone https://github.com/elderws/gym-quest.git
